@@ -1,0 +1,14 @@
+@CHARSET "UTF-8";
+body {
+	font-family: Cursive;
+	background:	#BABABA;
+	}
+	
+#nav{
+	position: relative; 
+	left:50px;
+}
+
+.hide{
+	display: none;
+}

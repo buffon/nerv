@@ -1,0 +1,39 @@
+@CHARSET "UTF-8";
+.back{
+position: relative; 
+background:	#7A8B8B;
+width: 20%;
+padding-left:10pt;
+border:1px ;
+top: 10px;
+left:20px;
+}
+
+body {
+	font-family: Cursive;
+	background:	#BABABA;
+	}
+	
+#submit{
+	font-family: Cursive;
+}
+
+#pic{
+	top: -250px;
+	position: relative; 
+	left:600px;
+}
+
+#foot{
+	top: -230px;
+	position: relative; 
+	left:60px;	
+}
+#register{
+	padding-left:10pt;
+	background:	#7A8B8B;
+	width: 20%;
+	position: relative; 
+	left:300px;	
+	top: -630px;
+}

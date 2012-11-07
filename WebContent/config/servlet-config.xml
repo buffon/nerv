@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<servlet-config>
+<servlet name="loginServlet" class="main.java.nerv.servlet.LoginServlet">
+
+</servlet>
+
+
+</servlet-config>
